@@ -9,7 +9,7 @@ npm start
 ```
 
 #### 技术栈
-- express 
+- express快速初始化服务
 - socket.io库
 
 #### 运行环境 
