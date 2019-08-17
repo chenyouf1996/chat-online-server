@@ -5,7 +5,14 @@
 
 #### 使用说明
 ```
-mongodb 数据库开启状态
+# mongodb 数据库开启状态
+
+git clone https://github.com/chenyouf1996/chat-online-server.git
+
+cd chat-online-server
+
+npm install
+
 npm start
 ```
 
